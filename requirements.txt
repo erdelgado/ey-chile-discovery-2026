@@ -1,0 +1,11 @@
+pandas
+matplotlib
+geopandas
+contextily
+stac
+pystac_client
+planetary_computer
+odc
+odc.stac
+xarray
+rioxarray
